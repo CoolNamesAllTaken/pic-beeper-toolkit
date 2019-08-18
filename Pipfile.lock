@@ -1,0 +1,37 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "522dc9724c38950a46da10c379c556a0b655d80b07abcd4aa808dd9fae9efbfd"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "argparse": {
+            "hashes": [
+                "sha256:62b089a55be1d8949cd2bc7e0df0bddb9e028faefc8c32038cc84862aefdd6e4",
+                "sha256:c31647edb69fd3d465a847ea3157d37bed1f95f19760b11a47aa91c04b666314"
+            ],
+            "index": "pypi",
+            "version": "==1.4.0"
+        },
+        "py-midicsv": {
+            "hashes": [
+                "sha256:0ad04d4c1449dd43ed776ed471aa9e00156ef9ddbc11bf9ef654a09397cbaf29",
+                "sha256:e847fadc841afa85809a1b08a5208aa49e23b1d714984af830619a531df566b9"
+            ],
+            "index": "pypi",
+            "version": "==1.9.0"
+        }
+    },
+    "develop": {}
+}
