@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# system
-.DS_Store
+# Custom Stuff
+midi_files/
